@@ -27,6 +27,7 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.CustomView
     public CustomAdapter(Context context,List<RetroPhoto> dataList){
         this.context = context;
         this.dataList = dataList;
+//        sdfsd
     }
 
     class CustomViewHolder extends RecyclerView.ViewHolder {
